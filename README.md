@@ -5,7 +5,7 @@
 3. [Installation](#installation)
 ## General Info
 ***
-This is a project build in php whose purpose is to provide the user a way to encrypt and decrypt, assuring the security and confidentiality of the information in their documents.
+This is a project build in ruby whose purpose is to provide the user an easy way to create a curriculum vitae.
 ## Technologies
 ***
 A list of technologies used within the project:
