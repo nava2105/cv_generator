@@ -1,0 +1,9 @@
+services:
+  web:
+    build: .
+    ports:
+      - "4567:4567"
+    volumes:
+      - .:/cv_generator
+    environment:
+      - RACK_ENV=development
